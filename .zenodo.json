@@ -1,6 +1,7 @@
 {
   "title": "Molecular Odor Prediction and Multidimensional Validation Study Based on a Two-Level Stacking Ensemble Model",
   "upload_type": "dataset",
+  "license": "other-closed",
   "description": "A molecular odor dataset release accompanying a two-level stacking-ensemble study. The archive contains the supplied pure_holographic_971_dataset.csv file and README documentation. It is intended to support transparent data inspection, feature engineering, odor-prediction experiments, and multidimensional validation. Users should consult the data columns and source provenance in the documentation, preserve the original file, report preprocessing and train/test decisions, and treat predictive performance as dependent on the stated split and evaluation protocol.",
   "creators": [
     {"name": "KarlHeinrich-jpg"}
